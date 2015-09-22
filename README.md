@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mkly/pushup-social-concrete5.svg?branch=master)](https://travis-ci.org/mkly/pushup-social-concrete5) 
+
 Pushup Social
 -------------
 
