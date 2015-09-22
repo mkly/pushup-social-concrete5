@@ -6,7 +6,6 @@ php:
   - hhvm
   - 5.7
 before_script:
-  - cd tests
   - composer install
 
 script:
