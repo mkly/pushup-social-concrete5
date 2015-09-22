@@ -1,0 +1,23 @@
+{
+    "name": "mkly/pushup-social-concrete5",
+    "description": "concrete5 add-on for Pushup Social integration",
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": ["dist/pushup_social/src/PushupSocial/"]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.8",
+        "phpunit/phpunit-mock-objects": "~2.3"
+    },
+    "config": {
+        "vendor-dir": "tests/vendor"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Lay",
+            "email": "mike@mkly.io"
+        }
+    ],
+    "require": {}
+}
