@@ -6,3 +6,8 @@ Pushup Social
 ### Installation
 * Copy the contents of the dist folder to the packages directory.
 * Install through the dashboard
+
+### Running tests
+* Install dependencies with composer
+* Run from the `tests/` directory:
+  `./vendor/bin/phpunit tests`
